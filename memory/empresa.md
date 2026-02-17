@@ -4,6 +4,12 @@
 - **Pedro Mussi** — CEO, fundador
 - **Iris Mussi** — Sócia, financeiro, supervisiona design e redes sociais
 
+## Infraestrutura
+- **Google Workspace** — domínio principal: @infostorecomputadores.com.br
+- **Domínio secundário:** iusado.com
+- **Aliases de domínio:** alibahia.com.br, connect2.com.br, disket.com.br, fitalto.com.br, ipartes.com.br, ipartesusa.com, med-partes.com
+- Diego usa diego@ipartesusa.com para cotações internacionais
+
 ---
 
 ## 1. Infostore (desde 2003)
