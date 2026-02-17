@@ -44,3 +44,11 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+### SSH
+
+- **VPS Hostinger:** `root@187.77.45.187` (porta 22)
+- **Chave SSH:** `/data/.openclaw/workspace/.ssh/jarvis_key`
+- **Hostname:** `srv1388874.hstgr.cloud`
+- **OS:** Ubuntu 24.04, Docker
+- **Container atual:** `openclaw-sdhn-openclaw-1`
