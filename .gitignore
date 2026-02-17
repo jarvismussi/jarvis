@@ -1,0 +1,7 @@
+# Sensitive
+.env
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
