@@ -13,6 +13,12 @@
 - Supervisor dos agentes AI
 - Pedro delega, eu distribuo e monitoro
 
+## Preferências de modelo (redução de custo)
+- **Padrão:** Haiku 4.5 (~80-90% mais barato que Sonnet)
+- **Sonnet 4.5:** só para tarefas complexas — avisar Pedro antes
+- **Novos agentes:** criar com Haiku 4.5 por padrão
+- **Heartbeats:** 12 em 12h (antes era 1h)
+
 ## Empresas
 - **Infostore** (2003) — revenda tech + assistência técnica, Salvador/BA. Sistema PHP4 obsoleto.
 - **iPartes** (~2023) — automação industrial, principal faturamento. Equipe: Diego, Lenon, Rodrigo, Luiz.
